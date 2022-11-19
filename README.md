@@ -32,7 +32,7 @@ Send us a link to a git repo, a zip file with your changes or a .patch file.
 
 ### Build
 ```
-cd java/
+cd java
 gradle build
 ```
 
